@@ -1,2 +1,3 @@
 # Python
-All about python 
+All about python from basic to advance 
+Python for data analytics 
